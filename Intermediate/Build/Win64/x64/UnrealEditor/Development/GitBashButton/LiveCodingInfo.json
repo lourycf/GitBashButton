@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GitBashButton.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"GitBashButton.cpp.obj",
+			"GitBashButtonStyle.cpp.obj",
+			"GitBashCommands.cpp.obj"
+		]
+	}
+}

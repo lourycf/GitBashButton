@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\laboratorio\\documents\\unreal projects\\moleculevisualizer\\plugins\\gitbashbutton\\source\\gitbashbutton\\private\\gitbashbuttonstyle.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\laboratorio\\documents\\unreal projects\\moleculevisualizer\\intermediate\\build\\win64\\x64\\moleculevizualizereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\laboratorio\\documents\\unreal projects\\moleculevisualizer\\plugins\\gitbashbutton\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gitbashbutton\\definitions.gitbashbutton.h",
+            "c:\\users\\laboratorio\\documents\\unreal projects\\moleculevisualizer\\plugins\\gitbashbutton\\source\\gitbashbutton\\public\\gitbashbuttonstyle.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\slatecore\\public\\styling\\slatestyleregistry.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\projects\\public\\plugindisalloweddescriptor.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\projects\\public\\versescope.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

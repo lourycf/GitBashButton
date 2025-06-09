@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\laboratorio\\documents\\unreal projects\\moleculevisualizer\\plugins\\gitbashbutton\\source\\gitbashbutton\\private\\gitbashcommands.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\laboratorio\\documents\\unreal projects\\moleculevisualizer\\intermediate\\build\\win64\\x64\\moleculevizualizereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\laboratorio\\documents\\unreal projects\\moleculevisualizer\\plugins\\gitbashbutton\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gitbashbutton\\definitions.gitbashbutton.h",
+            "c:\\users\\laboratorio\\documents\\unreal projects\\moleculevisualizer\\plugins\\gitbashbutton\\source\\gitbashbutton\\public\\gitbashcommands.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

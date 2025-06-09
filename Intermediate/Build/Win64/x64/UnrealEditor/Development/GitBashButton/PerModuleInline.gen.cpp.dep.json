@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\laboratorio\\documents\\unreal projects\\moleculevisualizer\\plugins\\gitbashbutton\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gitbashbutton\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\laboratorio\\documents\\unreal projects\\moleculevisualizer\\intermediate\\build\\win64\\x64\\moleculevizualizereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\laboratorio\\documents\\unreal projects\\moleculevisualizer\\plugins\\gitbashbutton\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gitbashbutton\\definitions.gitbashbutton.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

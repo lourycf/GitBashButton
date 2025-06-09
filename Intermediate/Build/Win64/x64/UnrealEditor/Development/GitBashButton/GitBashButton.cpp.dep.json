@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\laboratorio\\documents\\unreal projects\\moleculevisualizer\\plugins\\gitbashbutton\\source\\gitbashbutton\\private\\gitbashbutton.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\laboratorio\\documents\\unreal projects\\moleculevisualizer\\intermediate\\build\\win64\\x64\\moleculevizualizereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\laboratorio\\documents\\unreal projects\\moleculevisualizer\\plugins\\gitbashbutton\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gitbashbutton\\definitions.gitbashbutton.h",
+            "c:\\users\\laboratorio\\documents\\unreal projects\\moleculevisualizer\\plugins\\gitbashbutton\\source\\gitbashbutton\\public\\gitbashbutton.h",
+            "c:\\users\\laboratorio\\documents\\unreal projects\\moleculevisualizer\\plugins\\gitbashbutton\\source\\gitbashbutton\\public\\gitbashbuttonstyle.h",
+            "c:\\users\\laboratorio\\documents\\unreal projects\\moleculevisualizer\\plugins\\gitbashbutton\\source\\gitbashbutton\\public\\gitbashcommands.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\editor\\leveleditor\\public\\leveleditor.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\editor\\leveleditor\\public\\ileveleditor.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\public\\elements\\framework\\engineelementslibrary.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\engineelementslibrary.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\editor\\leveleditor\\public\\viewporttypedefinition.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\editor\\leveleditor\\public\\leveleditoroutlinersettings.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\developer\\toolwidgets\\public\\filters\\genericfilter.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\developer\\toolwidgets\\public\\filters\\filterbase.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
