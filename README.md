@@ -1,7 +1,7 @@
 # Git Bash Button – Plugin for Unreal Engine
 
-- To use it, download the plugin from **Releases** and place the folder in:
-  `pathTo\UE_5.6\Engine\Plugins\Marketplace\`
+### How To Install it: 
+download the plugin from **Releases** and place the folder in: `pathTo\UE_5.6\Engine\Plugins\Marketplace\`
 
 ---
  
