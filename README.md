@@ -4,7 +4,18 @@
 
 Download the .zip from **Releases**, and place the extracted folder in: `pathTo\UE_5.6\Engine\Plugins\Marketplace\`. (Create Marketplace folder if there is none)
 
-Build the engine through your projects .sln
+
+If your project doesn't open with the plugin there, then:
+
+Delete Binaries and Intermediate folder,
+
+Place the Plugin folder in a C++ Project of yours
+
+Open the project, it will ask you to build it
+
+Then take the Plugin and place it back in Marketplace, for all projects use.
+
+
 
 ---
  
